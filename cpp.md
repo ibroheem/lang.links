@@ -2,7 +2,7 @@
 
 **ISO C++ Official Homepage:**
 
-- [https://isocpp.org]()
+- [isocpp](https://isocpp.org)
 
 ISO C++ committee
 - https://isocpp.org/std/the-committee
@@ -49,18 +49,24 @@ Conferences:
 
 **Blogs:**
 
-- [https://akrzemi1.wordpress.com/]()
-- [http://ericniebler.com]()
-- [http://foonathan.net/]()
+- [https://akrzemi1.wordpress.com/](URL)
+- [http://ericniebler.com](URL)
+- [http://foonathan.net/](URL)
 - [https://herbsutter.com/category/c/](URL)
 
                   —---- Specific Topics (No particular order)  —----
-Concurrency & Parallelism:
-- http://www.bogotobogo.com/cplusplus/multithreaded.php
-- http://thispointer.com/c-11-multithreading-part-1-three-different-ways-to-create-threads/
+                  
+**Concurrency & Parallelism:**
+
+*- http://www.bogotobogo.com/cplusplus/multithreaded.php
+
+*- http://thispointer.com/c-11-multithreading-part-1-three-different-ways-to-create-threads/*
 
 **Networking**:
-- 
+    C++ doesn't have a standard net lib yet, but there's a proposal based on ASIO
+    
+     - [theboostcpplibraries.com]()
+     - [https://www.boost.org/doc/libs/1_67_0/doc/html/boost_asio/tutorial.html](Boost Tutorial)
 
 Pointers:
  https://web.archive.org/web/20170930150208/http://www.cs.umd.edu/class/sum2003/cmsc311/Notes/BitOp/pointer.html 

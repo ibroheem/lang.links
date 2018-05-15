@@ -1,4 +1,4 @@
-Dlang
+**Dlang**
 
 Official:
 - Site: https://dlang.org
@@ -11,7 +11,8 @@ Official:
 
 - Blog: https://dlang.org/blog/
 
-Forum:
+**Forum:**
+
 - https://forum.dlang.org/
 
 Learn:
@@ -33,19 +34,20 @@ Programming in D for C Programmers:
 - https://dlang.org/articles/ctod.html
 
 Proposals (AKA: D Improvement Proposals):
-- https://github.com/dlang/DIPs
+- [https://github.com/dlang/DIPs]()
 
 Templates:
-- https://dlang.org/spec/template.html
-- https://github.com/PhilippeSigaud/D-templates-tutorial
-- https://semitwist.com/articles/article/view/template-primer-in-d
-- http://nomad.uk.net/articles/templates-in-d-explained.html
-- https://dlang.org/concepts.html
 
-NO Garbage Collection:
-- 
+- [https://dlang.org/spec/template.html]()
+- [https://github.com/PhilippeSigaud/D-templates-tutorial]()
+- [https://semitwist.com/articles/article/view/template-primer-in-d]()
+- [http://nomad.uk.net/articles/templates-in-d-explained.html]()
+- [https://dlang.org/concepts.html]()
 
-Libs
- - Mir - Dlang Core Libraries : https://github.com/libmir
-   GPU:
-     - https://github.com/libmir/dcompute
+**NO Garbage Collection:**  
+
+- WIP
+
+**Libs:**
+
+ - [https://github.com/zhaopuming/awesome-d#parallel-computing]()
