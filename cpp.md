@@ -1,41 +1,74 @@
-ISO C++ Official Homepage:
+##C++ Resources: Biased Towards Beginners
 
-- https://isocpp.org
+**ISO C++**
 
-ISO C++ committee
+- Official Homepage: https://isocpp.org
+- ISO C++ committee: https://isocpp.org/std/the-committee
+- Language Improvement Papers: http://www.open-std.org/jtc1/sc22/wg21/docs/papers
 
-- https://isocpp.org/std/the-committee
-
-FAQs
+**FAQs**
 
 - http://www.stroustrup.com/bs_faq.html (I actually read this all)
 - http://www.stroustrup.com/bs_faq2.html 
 - https://isocpp.org/faq
 - http://www.stroustrup.com/C++11FAQ.html
 
-Reddit (reddit.com)
+**Communities**:
 
-- http://reddit.com/r/cpp
-- http://reddit.com/r/cpp_questions (U can also ask questions here)
+*Reddit (reddit.com)*
 
-Slack:
+        - http://reddit.com/r/cpp
+        - http://reddit.com/r/cpp_questions (U can also ask questions here)
 
-- https://cpplang.now.sh/
+*Slack:* https://cpplang.now.sh/
 
-Cpp Reference
+*Discord:* https://
+
+**Cpp Reference:**
 
 - http://en.cppreference.com/w/
 
-Books (Books are the best way to learn cpp):
+**Books: ** (contains rare gem)
 
 - https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list
 
-Online Tutorial:
+**Online Tutorial:**
 
 - http://learncpp.com
 - https://fbb-git.github.io/cppannotations/cppannotations/html/index.html
 
-Modern Cpp Features (C++11+):
+**Pod Cast:**
+
+- http://www.cppcast.com/
+
+**Youtube:**
+
+- https://www.youtube.com/user/lefticus1/videos
+- https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw
+- https://www.youtube.com/channel/UCEOGtxYTB6vo6MQ-WQ9W_nQ
+
+**Conferences:**
+
+- CppCon: https://cppcon.org/
+- BoostCon: https://www.youtube.com/user/BoostCon
+- Meeting Cpp: http://meetingcpp.com/
+
+**Blogs:**
+
+- https://akrzemi1.wordpress.com/
+- http://ericniebler.com
+- http://foonathan.net/
+- https://herbsutter.com/category/c/
+
+**Awesome C++ Resource Collections:**
+
+- https://github.com/fffaraz/awesome-cpp
+- https://github.com/rigtorp/awesome-modern-cpp
+- https://github.com/uhub/awesome-cpp
+
+                  -- Specific Topics (No particular order) --
+
+**Modern Cpp Features ( >= C++11):**
 
 - https://github.com/AnthonyCalandra/modern-cpp-features
 
@@ -44,27 +77,6 @@ Modern Cpp Features (C++11+):
         - http://www.bfilipek.com/2017/01/cpp17features.html
         - https://jfbastien.github.io
 
-Youtube:
-
-- https://www.youtube.com/user/lefticus1/videos
-- https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw
-- https://www.youtube.com/channel/UCEOGtxYTB6vo6MQ-WQ9W_nQ
-
-Conferences:
-
-- CppCon: https://cppcon.org/
-- BoostCon: https://www.youtube.com/user/BoostCon
-- Meeting Cpp: http://meetingcpp.com/
-
-Blogs:
-
-- https://akrzemi1.wordpress.com/
-- http://ericniebler.com
-- http://foonathan.net/
-- https://herbsutter.com/category/c/
-
-                  -- Specific Topics (No particular order) --
-                  
 **Concurrency & Parallelism:**
 
 - http://www.bogotobogo.com/cplusplus/multithreaded.php
@@ -72,12 +84,15 @@ Blogs:
 
 **Networking:**
 
-Networking TS- The proposed standard Networking Library:  
+***Networking TS*** - The proposed standard Networking Library:*
 
-**Implementations:**
+- Where it all began: http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1925.pdf
+- Where we at: http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/n4734.pdf
 
-- Typically comes with newer ASIO and Boost::ASIO
-- https://github.com/chriskohlhoff/networking-ts-impl
+    *Implementations:*
+
+    - Typically comes with newer ASIO and Boost::ASIO
+    - https://github.com/chriskohlhoff/networking-ts-impl
 
 *ASIO*
 
@@ -102,12 +117,6 @@ Networking TS- The proposed standard Networking Library:
        - Docs
            - http://cppcms.com/wikipp/en/page/cppcms_1x
            - Reference documentation: http://cppcms.com/cppcms_ref/latest/
-
-**Awesome C++ Resource Collections:**
-
-- https://github.com/fffaraz/awesome-cpp
-- https://github.com/rigtorp/awesome-modern-cpp
-- https://github.com/uhub/awesome-cpp
 
 **Pointers:**
 
