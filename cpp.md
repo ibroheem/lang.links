@@ -1,8 +1,8 @@
 ##C++ Resources: Biased Towards Beginners
 
-**ISO C++**
+**Official C++**
 
-- Official Homepage: https://isocpp.org
+- Homepage: https://isocpp.org
 - ISO C++ committee: https://isocpp.org/std/the-committee
 - Language Improvement Papers: http://www.open-std.org/jtc1/sc22/wg21/docs/papers
 
@@ -36,6 +36,7 @@
 
 - http://learncpp.com
 - https://fbb-git.github.io/cppannotations/cppannotations/html/index.html
+- http://www.bogotobogo.com/index.php
 
 **Pod Cast:**
 
@@ -59,6 +60,7 @@
 - http://ericniebler.com
 - http://foonathan.net/
 - https://herbsutter.com/category/c/
+- https://www.kdab.com/category/blogs/
 
 **Awesome C++ Resource Collections:**
 
@@ -66,7 +68,7 @@
 - https://github.com/rigtorp/awesome-modern-cpp
 - https://github.com/uhub/awesome-cpp
 
-                  -- Specific Topics (No particular order) --
+                  -- Selected Topics (No particular order) --
 
 **Modern Cpp Features ( >= C++11):**
 
@@ -104,19 +106,19 @@
         - http://think-async.com/
         - https://github.com/chriskohlhoff/asio/
         - http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2012/n3388.pdf:  gives a brief, high-level introduction to how Asio may be used in conjunction with C++11. 
-        - 
+        
 
-*Other libs:*
+    *Other libs:*
 
-- https://github.com/fffaraz/awesome-cpp#networking
-- evpp: https://github.com/Qihoo360/evpp
-- moduo: https://github.com/chenshuo/muduo
-- seastar: For real heavy lifting: https://github.com/scylladb/seastar
-- CppCMS — C++ Web Framework
-     - http://cppcms.com
-       - Docs
-           - http://cppcms.com/wikipp/en/page/cppcms_1x
-           - Reference documentation: http://cppcms.com/cppcms_ref/latest/
+    - https://github.com/fffaraz/awesome-cpp#networking
+    - evpp: https://github.com/Qihoo360/evpp
+    - moduo: https://github.com/chenshuo/muduo
+    - seastar: For real heavy lifting: https://github.com/scylladb/seastar
+    - CppCMS — C++ Web Framework
+         - http://cppcms.com
+           - Docs
+               - http://cppcms.com/wikipp/en/page/cppcms_1x
+               - Reference documentation: http://cppcms.com/cppcms_ref/latest/
 
 **Pointers:**
 
